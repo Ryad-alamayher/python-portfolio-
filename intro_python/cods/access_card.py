@@ -6,6 +6,7 @@
 print ("*******************************************")
 
 print ("name : ryad alamayher")
+print (" birth date : 2007-12-7")
 print ()
 print ("role : student")
 print ("program", ": Cybersecurity")
